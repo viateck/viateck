@@ -2,7 +2,7 @@
 - 👀 I’m interested in tech
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on dev
-- 📫 How to reach me : viateck.co@gmail.com
+- 📫 How to reach me : contact@viateck.company
 
 <!---
 viateck/viateck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
