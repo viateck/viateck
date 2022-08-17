@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @viateck
-- 👀 I’m interested in tech
-- 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on dev
-- 📫 How to reach me : contact@viateck.company
+- 👋 Hi, We're @viateck_company
+- 👀 We're interested in tech
+- 🌱 We're currently learning AI
+- 💞️ We'relooking to collaborate on dev
+- 📫 How to reach us : contact@viateck.company
 
 <!---
 viateck/viateck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
